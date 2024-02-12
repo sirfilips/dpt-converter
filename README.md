@@ -1,35 +1,35 @@
-# Converti i file .dpt in Excel con Python
+# Convert .dpt Files to Excel with Python
 
-Questo script converte i file di dati di tipo .dpt (delimited text) in file Excel con Python.
+This script converts delimited text (.dpt) data files into Excel files using Python.
 
-## Prerequisiti
+## Prerequisites
 
-Per eseguire questo script, sono necessari i seguenti software:
+To run this script, you need the following software:
 
-- Python 3.7 o versione successiva
-- Pacchetto Pandas
-- Pacchetto tqdm (facoltativo)
+- Python 3.7 or later
+- Pandas package
+- tqdm package (optional)
 
-Per installarli aprire il terminale ed eseguire il comando 'pip install pandas tqdm'
+To install them, open the terminal and execute the command 'pip install pandas tqdm'.
 
-## Come utilizzare lo script
+## How to Use the Script
 
-1. Inserire tutti i file .dpt che si vogliono converitre all'interno della cartella 'data'
-2. Scarica o clona il repository GitHub di questo progetto.
-3. Apri il terminale o il prompt dei comandi e naviga alla directory contenente lo script main.py.
-4. Esegui il comando `main.py`.
-5. Viene visualizzata una barra di avanzamento che indica il progresso della conversione.
-6. Al termine della conversione, viene visualizzato un messaggio di conferma.
-7. I file Excel convertiti vengono salvati nella cartella 'output'
+1. Place all .dpt files you want to convert inside the 'data' folder.
+2. Download or clone the GitHub repository of this project.
+3. Open the terminal or command prompt and navigate to the directory containing the main.py script.
+4. Run the command `python main.py`.
+5. A progress bar indicating the conversion progress will be displayed.
+6. Upon completion, a confirmation message will be shown.
+7. The converted Excel files are saved in the 'output' folder.
 
-## Licenza
+## License
 
-Questo progetto è disponibile sotto la licenza MIT. Per maggiori informazioni, consulta il file LICENSE.
+This project is available under the MIT license. For more information, refer to the LICENSE file.
 
-## Contribuire
+## Contributing
 
-Se vuoi contribuire a questo progetto, puoi aprire una richiesta pull sul repository GitHub.
+If you want to contribute to this project, you can open a pull request on the GitHub repository.
 
-## Note
+## Notes
 
-Questo script è stato testato su un computer con Windows 10 e con Python 3.9.2. Potrebbe non funzionare correttamente su altri sistemi operativi o versioni di Python.
+This script has been tested on a computer with Windows 10 and Python 3.9.2. It may not work correctly on other operating systems or Python versions.
