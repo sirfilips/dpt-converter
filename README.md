@@ -10,7 +10,7 @@ To run this script, you need the following software:
 - Pandas package
 - tqdm package (optional)
 
-To install them, open the terminal and execute the command 'pip install pandas tqdm'.
+To install them, open the terminal and execute the command `pip install pandas tqdm`.
 
 ## How to Use the Script
 
