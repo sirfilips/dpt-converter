@@ -1,6 +1,6 @@
 # Convert .dpt Files to Excel with Python
 
-This script converts delimited text (.dpt) data files into Excel files using Python.
+This script converts delimited text (.dpt) data files into Excel files using Python. This script was written specifically to convert .dpt files containing spectrophotometric data.
 
 ## Prerequisites
 
