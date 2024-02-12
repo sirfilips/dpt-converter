@@ -14,13 +14,13 @@ To install them, open the terminal and execute the command `pip install pandas t
 
 ## How to Use the Script
 
-1. Place all .dpt files you want to convert inside the 'data' folder.
-2. Download or clone the GitHub repository of this project.
-3. Open the terminal or command prompt and navigate to the directory containing the main.py script.
-4. Run the command `python main.py`.
-5. A progress bar indicating the conversion progress will be displayed.
-6. Upon completion, a confirmation message will be shown.
-7. The converted Excel files are saved in the 'output' folder.
+1. Download or clone the GitHub repository of this project.
+2. Place all .dpt files you want to convert inside the 'data' folder.
+4. Open the terminal or command prompt and navigate to the directory containing the main.py script.
+5. Run the command `python main.py`.
+6. A progress bar indicating the conversion progress will be displayed.
+7. Upon completion, a confirmation message will be shown.
+8. The converted Excel files are saved in the 'output' folder.
 
 ## License
 
